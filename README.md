@@ -1,9 +1,9 @@
-## Andreza Ercilio
+## Hi, I'm Andreza.
 
-- 🎓 UFRRJ: Ciência da Computação 
-- 🤖 Estudando Python & Pandas.
+- 🎓 UFRRJ: Computer Science. 
+- 🤖 Studying Python for Data Science .
 
-##
+## 
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
