@@ -1,7 +1,7 @@
 ## Andreza Ercilio
 
 - 🎓 UFRRJ: Ciência da Computação 
-- 🤖 Estudando Python
+- 🤖 Estudando Python & Pandas.
 
 ##
  
