@@ -42,4 +42,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreza1se&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <img height="100px" src="https://i.imgur.com/FhMqZ30.gif">
+
 </p>
