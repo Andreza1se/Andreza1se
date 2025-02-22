@@ -23,8 +23,6 @@
 </div>
 
  ##
- </br>
- </br>
 
  ### 📊 Estatísticas
 
