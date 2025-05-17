@@ -1,7 +1,7 @@
 ## Hi, I'm Andreza.
 
 - 🎓 UFRRJ: Computer Science. 
-- 🌱 Studying Python for Data Science.
+
 
 ## Languages ​​and Technologies :
  
